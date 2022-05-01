@@ -12,17 +12,18 @@
 
 <!--   <b> Contact me here:-  -->
    [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/shreyashgaurav/) 
-   [<img alt="Discord" src="https://img.shields.io/badge/Server-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>](https://discord.gg/k2vxqr7Da2) 
    [<img alt="Instagram" src="https://img.shields.io/badge/-Instagram-%23833AB4.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>](https://www.instagram.com/shreyash_grv/)
    [<img alt="Gmail" src="https://img.shields.io/badge/-Gmail-yellow.svg?&style=for-the-badge&logo=gmail&logoColor=red"/>](https://shreyash2856@gmail.com/)
-   
+   [<img alt="Leetcode" src="https://img.shields.io/badge/-Leetcode-%23833AB4.svg?&style=for-the-badge&logo=leetcode&logoColor=white"/>](https://leetcode.com/shreyash_gaurav/)
+   [<img alt="Codechef" src="https://img.shields.io/badge/-Codechef-%23833AB4.svg?&style=for-the-badge&logo=codechef&logoColor=white"/>](https://www.codechef.com/users/t_minus_zero)
    <img width="100%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /><br>
   
 
 ## About me:
 
 - 💻 I am learning *DSA.
-- 💻 I am also doing competitive programming.
+- 🧑‍💻 I love leetcoding.
+- 👨‍💻 I am also doing competitive programming.
 
 - 😄 Looking for internship oppurtunities.
 
