@@ -48,7 +48,7 @@
 
 
 
-  <a href="https://github.com/shreyashgaurav/github-readme-activity-graph"><img  alt="Shreyash gaurav's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=shreyashgauravi&&theme=tokyonight"/></a> 
+  <a href="https://github.com/shreyashgaurav/github-readme-activity-graph"><img  alt="Shreyash gaurav's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=shreyashgaurav&&theme=tokyonight"/></a> 
   
 
 
