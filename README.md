@@ -1,4 +1,4 @@
-<a href="#"><p align="center" ><img width="300px" height="300px" src="/hacker boii.png" height="175px"/></p></a>
+
 <!-- Profile count -->
 <img alt = "Visitors"  src = "https://komarev.com/ghpvc/?username=shreyashgaurav"/>
 <h1>Hello! <img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1627974769/48327/hello_sign.gif?1627974769" width="40"/> </h1>
