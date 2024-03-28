@@ -65,6 +65,6 @@
 
 ## My Trophies <img src = "https://media.giphy.com/media/JzqRWjBTKZXSE/giphy.gif" width = 64px> </h2>
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=shreyashgaurav&column=7&theme=tokyonight&no-frame=true"/>
-  <img width="120%" alt="Github" src="https://media.giphy.com/media/AYMKkDwavwA9Y72Frn/giphy.gif" />
+  
 
 <!-- End -->
