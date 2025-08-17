@@ -1,6 +1,6 @@
 <h1 align="center">Shreyash Gaurav</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=10&speed=40&width=500&lines=Software+Engineer;AI+Explorer;Researcher;Developer;Learner&center=true&vCenter=true" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=700&speed=20&width=500&lines=Software+Engineer;AI+Explorer;Researcher;Developer;Learner&center=true&vCenter=true" alt="Typing SVG" />
 
 
 
