@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,py,java,js,react,androidstudio,linux,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=cpp,py,java,js,linux,git,vscode" />
 </p>
 
 <p align="center">
