@@ -10,10 +10,7 @@
   <img src="https://skillicons.dev/icons?i=c,cpp,java,py,rust,js,linux,git,cmake,vscode" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shreyashgaurav&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyashgaurav&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=shreyashgaurav&theme=tokyonight&hide_border=true" />
