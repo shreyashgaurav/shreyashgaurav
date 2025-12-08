@@ -1,29 +1,163 @@
-<h1 align="center">Shreyash Gaurav</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=700&speed=20&width=500&lines=Software+Engineer;AI+Explorer;Researcher;Developer;Learner&center=true&vCenter=true" alt="Typing SVG" />
+<div align="center">
+  
+# Hi there, I'm Shreyash Gaurav
 
-
-
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Researcher+%7C+Deep+Learning;Master's+Student+@+NIT+Rourkela;C%2B%2B+Developer+%7C+Full-Stack+Developer;ML+Enthusiast)](https://git.io/typing-svg)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,py,rust,js,linux,git,cmake,vscode" />
+  <a href="https://linkedin.com/in/shreyash_gaurav/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:shreyash2856@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://leetcode.com/shreyashgaurav/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
 </p>
 
+</div>
+
+## About Me
+
+> Master's student in Computer Science at **NIT Rourkela** with a passion for Graph Neural Networks and Machine Learning
+
+- Research Focus: Graph Clustering Algorithms, GNNs, Graph Distillation  
+- Teaching Assistant: Machine Learning courses at NIT Rourkela  
 
 
+<!-- <table>
+##Featured Projects
+  <tr>
+    <td width="50%">
+      <h3 align="center">DGCLUSTER Framework</h3>
+      <div align="center">
+        <a href="https://github.com/shreyashgaurav/dgcluster" target="_blank">
+          <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github" alt="View Project"/>
+        </a>
+        <p><strong>Graph Clustering with Heat-PPR Kernels</strong></p>
+        <p>Advanced multi-objective optimization framework for large-scale graph clustering</p>
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white"/>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">ChatFlow</h3> -->
+      <!-- <div align="center">
+        <a href="https://github.com/shreyashgaurav/chatflow" target="_blank">
+          <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github" alt="View Project"/>
+        </a>
+        <p><strong>Real-time Chat Application</strong></p>
+        <p>Full-stack chat platform with JWT authentication and real-time messaging</p>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">EditPDFQ</h3>
+      <div align="center">
+        <a href="https://github.com/shreyashgaurav/editpdfq" target="_blank">
+          <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github" alt="View Project"/>
+        </a> -->
+        <!-- <p><strong>Cross-platform PDF Editor</strong></p>
+        <p>Desktop application for PDF editing built with Qt6</p>
+        <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Qt-41CD52?style=flat&logo=qt&logoColor=white"/>
+      </div>
+    </td>
+    <td width="50%"> -->
+      <!-- <h3 align="center">S3GC Framework</h3>
+      <div align="center">
+        <a href="https://github.com/shreyashgaurav/s3gc" target="_blank">
+          <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github" alt="View Project"/>
+        </a>
+        <p><strong>Scalable Graph Clustering</strong></p>
+        <p>Implementation and enhancement of state-of-the-art clustering algorithms</p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/NetworkX-013243?style=flat"/> -->
+      <!-- </div> -->
+    <!-- </td> -->
+  <!-- </tr> -->
+<!-- </table> -->
+
+## Technical Skills
+
+<details open>
+<summary><b>Programming Languages</b></summary>
+<br>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=shreyashgaurav&theme=tokyonight&hide_border=true" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,javascript,c,rust" />
 </p>
+</details>
 
+<details open>
+<summary><b>AI/ML & Data Science</b></summary>
+<br>
 <p align="center">
-  <a href="https://linkedin.com/in/shreyash_gaurav/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:shreyash2856@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/shreyashgaurav">
-    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="48"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="48"/>
+  <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" height="48"/>
 </p>
+</details>
+
+<details open>
+<summary><b>Web Development</b></summary>
+<br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,html,css" />
+</p>
+</details>
+
+<details open>
+<summary><b>Tools & Technologies</b></summary>
+<br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,docker,linux,vscode,cmake,qt" />
+</p>
+</details>
+
+## GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shreyashgaurav&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyashgaurav&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyashgaurav&theme=tokyonight&hide_border=true" />
+</div>
+
+## Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shreyashgaurav&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+</div>
+
+## Achievements & Certifications
+
+- Kalam Lekha Mahotsav Award - Excellence in Creative Writing  
+- Published Research Papers - MIMIC Clustering, Multi-scale Diffusion Enhancement  
+- Academic Excellence - 8.5 CGPA (Master's), 9.31 CGPA (Bachelor's)  
+- Active Problem Solver - Regular contributor on LeetCode  
+
+## Recent Research Publications
+
+- **MIMIC: Modularity-driven Intelligent Mapping for Improved Clustering**  
+- **Multi-scale Diffusion Enhancement for Graph Clustering**  
+- **DGCLUSTER Framework** - Heat-PPR kernels for large-scale graph analysis  
+
+## Let's Connect!
+
+<div align="center">
+  
+I'm always interested in collaborating on AI/ML research, open-source projects, or discussing ideas in graph neural networks and machine learning.
+
+Contact: **shreyash2856@gmail.com**
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=shreyashgaurav&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+  
+  <p>From <a href="https://github.com/shreyashgaurav">@shreyashgaurav</a> | Building with AI and Graph Theory</p>
+</div>
