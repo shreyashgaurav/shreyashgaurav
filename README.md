@@ -1,6 +1,6 @@
 <div align="center">
   
-# Hi there, I'm Shreyash Gaurav
+# Hi there, I'm Shreyash. 😊
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Researcher+%7C+Deep+Learning;Master's+Student+@+NIT+Rourkela;C%2B%2B+Developer+%7C+Full-Stack+Developer;ML+Enthusiast)](https://git.io/typing-svg)
 
