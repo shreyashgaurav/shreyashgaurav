@@ -16,9 +16,9 @@
 
 > Master's student in Computer Science at **NIT Rourkela** with a passion for Graph Neural Networks and Machine Learning
 
-- Research Focus: Deep Learning, Graph Clustering Algorithms, Graph Neural Networks (GNNs), Graph Distillation
-- Developer: C++, Rust, MERN
-- Teaching Assistant: Machine Learning course at NIT Rourkela 
+- **Research Focus**: Deep Learning, Graph Clustering Algorithms, Graph Neural Networks (GNNs), Graph Distillation
+- **Developer**: C++, Rust, MERN
+- **Teaching Assistant**: Machine Learning course at NIT Rourkela 
 
 ## Technical Skills
 
@@ -73,6 +73,14 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shreyashgaurav&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 </div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg"/>
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg"/>
+  </picture>
+</div>
  
 
 ## Let's Connect!
@@ -90,5 +98,5 @@ Contact: **shreyash2856@gmail.com**
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=shreyashgaurav&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
   
-  <p>From <a href="https://github.com/shreyashgaurav">@shreyashgaurav</a> | Building with AI and Graph Theory</p>
+  
 </div>
