@@ -5,9 +5,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Researcher+%7C+Deep+Learning;Master's+Student+@+NIT+Rourkela;C%2B%2B+Developer+%7C+Full-Stack+Developer;ML+Enthusiast)](https://git.io/typing-svg)
 
 <p align="center">
-  <a href="https://linkedin.com/in/shreyash_gaurav/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://linkedin.com/in/shreyashgaurav/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:shreyash2856@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://leetcode.com/shreyashgaurav/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+  <a href="https://leetcode.com/shreyash_gaurav/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
 </p>
 
 </div>
