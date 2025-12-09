@@ -16,66 +16,9 @@
 
 > Master's student in Computer Science at **NIT Rourkela** with a passion for Graph Neural Networks and Machine Learning
 
-- Research Focus: Graph Clustering Algorithms, GNNs, Graph Distillation  
-- Teaching Assistant: Machine Learning courses at NIT Rourkela  
-
-
-<!-- <table>
-##Featured Projects
-  <tr>
-    <td width="50%">
-      <h3 align="center">DGCLUSTER Framework</h3>
-      <div align="center">
-        <a href="https://github.com/shreyashgaurav/dgcluster" target="_blank">
-          <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github" alt="View Project"/>
-        </a>
-        <p><strong>Graph Clustering with Heat-PPR Kernels</strong></p>
-        <p>Advanced multi-objective optimization framework for large-scale graph clustering</p>
-        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
-        <img src="https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white"/>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">ChatFlow</h3> -->
-      <!-- <div align="center">
-        <a href="https://github.com/shreyashgaurav/chatflow" target="_blank">
-          <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github" alt="View Project"/>
-        </a>
-        <p><strong>Real-time Chat Application</strong></p>
-        <p>Full-stack chat platform with JWT authentication and real-time messaging</p>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">EditPDFQ</h3>
-      <div align="center">
-        <a href="https://github.com/shreyashgaurav/editpdfq" target="_blank">
-          <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github" alt="View Project"/>
-        </a> -->
-        <!-- <p><strong>Cross-platform PDF Editor</strong></p>
-        <p>Desktop application for PDF editing built with Qt6</p>
-        <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Qt-41CD52?style=flat&logo=qt&logoColor=white"/>
-      </div>
-    </td>
-    <td width="50%"> -->
-      <!-- <h3 align="center">S3GC Framework</h3>
-      <div align="center">
-        <a href="https://github.com/shreyashgaurav/s3gc" target="_blank">
-          <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github" alt="View Project"/>
-        </a>
-        <p><strong>Scalable Graph Clustering</strong></p>
-        <p>Implementation and enhancement of state-of-the-art clustering algorithms</p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/NetworkX-013243?style=flat"/> -->
-      <!-- </div> -->
-    <!-- </td> -->
-  <!-- </tr> -->
-<!-- </table> -->
+- Research Focus: Deep Learning, Graph Clustering Algorithms, Graph Neural Networks (GNNs), Graph Distillation
+- Developer: C++, Rust, MERN
+- Teaching Assistant: Machine Learning course at NIT Rourkela 
 
 ## Technical Skills
 
@@ -117,8 +60,8 @@
 ## GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shreyashgaurav&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyashgaurav&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shreyashgaurav&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/> -->
+  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyashgaurav&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/> -->
 </div>
 
 <div align="center">
@@ -130,19 +73,7 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shreyashgaurav&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 </div>
-
-## Achievements & Certifications
-
-- Kalam Lekha Mahotsav Award - Excellence in Creative Writing  
-- Published Research Papers - MIMIC Clustering, Multi-scale Diffusion Enhancement  
-- Academic Excellence - 8.5 CGPA (Master's), 9.31 CGPA (Bachelor's)  
-- Active Problem Solver - Regular contributor on LeetCode  
-
-## Recent Research Publications
-
-- **MIMIC: Modularity-driven Intelligent Mapping for Improved Clustering**  
-- **Multi-scale Diffusion Enhancement for Graph Clustering**  
-- **DGCLUSTER Framework** - Heat-PPR kernels for large-scale graph analysis  
+ 
 
 ## Let's Connect!
 
