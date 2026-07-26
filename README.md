@@ -79,7 +79,7 @@
 
 <div align="center">
   
-I'm always interested in collaborating on AI/ML research, open-source projects, or discussing ideas in graph neural networks and machine learning.
+I'm always interested in collaborating on AI/ML research, low latency systems, open-source projects, or discussing ideas in graph neural networks and machine learning.
 
 Contact: **shreyash2856@gmail.com**
 
