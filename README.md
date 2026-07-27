@@ -17,7 +17,7 @@
 > Master's student in Computer Science at **NIT Rourkela** with a passion for Graph Neural Networks and Machine Learning
 
 - **Research Focus**: Deep Learning, Graph Clustering Algorithms, Graph Neural Networks (GNNs), Graph Distillation
-- **Developer**: C++, Rust, MERN
+- **Developer**: C++, Go, MERN
 - **Teaching Assistant**: Machine Learning course at NIT Rourkela 
 
 ## Technical Skills
@@ -26,7 +26,7 @@
 <summary><b>Programming Languages</b></summary>
 <br>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,javascript,c,rust" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,go,javascript,c,rust" />
 </p>
 </details>
 
