@@ -2,7 +2,10 @@
 
 # Hi there, I'm Shreyash 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Researcher+%7C+Deep+Learning;Master's+Student+@+NIT+Rourkela;C%2B%2B+Developer+%7C+Full-Stack+Developer;ML+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Researcher+%7C+Deep+Learning+%26+GNNs;Graph+Clustering+%7C+VLMs+%2F+LLMs;Published+%40+ACM+SAC+%7C+IEEE+%7C+CODS;Ex-Intern+%40+Samsung+Research;M.Tech+in+CS+%40+NIT+Rourkela;C%2B%2B+%7C+Python+%7C+Full-Stack)](https://git.io/typing-svg)
+
+
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shreyashgaurav/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shreyash2856@gmail.com)
@@ -10,9 +13,18 @@
 
 </div>
 
+<div align="center">
+
+**🔍 Open to SDE roles - India or Remote**<br>
+C++ · Systems · Applied ML · Full-Stack<br>
+[📄 Resume](https://github.com/shreyashgaurav/shreyashgaurav/blob/main/Shreyash_Gaurav_Resume.pdf) · [📧 shreyash2856@gmail.com](mailto:shreyash2856@gmail.com)
+
+</div>
+
+
 ## About Me
 
-Master's student in Computer Science at **NIT Rourkela**, passionate about Graph Neural Networks, Machine Learning, Natural Language Processing and Low-latency systems.
+Computer Science graduate from **NIT Rourkela**, passionate about Graph Neural Networks, Machine Learning, Natural Language Processing and Low-latency systems.
 
 - **Research** -- Deep Learning, Graph Clustering, GNNs, Graph Distillation
 - **Development** -- C++, Python, MERN stack
@@ -110,7 +122,7 @@ Demoed the system at **Tech Glanz**, Samsung's internal tech summit.
 
 Always open to collaborating on **AI/ML research**, **low-latency systems**, and **open-source projects** - or discussing ideas in graph neural networks and machine learning.
 
-<img src="https://komarev.com/ghpvc/?username=shreyashgaurav&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+
 
 </div>
 
