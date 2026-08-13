@@ -30,7 +30,6 @@ Computer Science graduate from **NIT Rourkela**, passionate about Graph Neural N
 - **Development** -- C++, Python, MERN stack
 
 
-📫 **shreyash2856@gmail.com**
 
 ## Experience
 
