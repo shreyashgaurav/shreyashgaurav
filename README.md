@@ -27,7 +27,7 @@ Master's student in Computer Science at **NIT Rourkela**, passionate about Graph
 Built agentic AI and deep-learning pipelines for Scene Text Recognition on real-world images.
 
 - Improved image-based NER F1 from **0.45 to 0.70 (+55%)** by fine-tuning **Qwen3-VL-2B** with LoRA, matching 8B-model quality at **~4x lower inference cost**.
-- Built a **3-agent OCR + NER pipeline** (LangGraph, Qwen3-VL, PaddleOCR v5) that extracts and classifies text from real-world images across **13+ languages**, to drive downstream translate-vs-transliterate decisions.
+- Built a **3-agent OCR + NER pipeline** (Using LangGraph, Qwen3-VL, PaddleOCR v5) that extracts and classifies text from real-world images across **13+ languages**, to drive downstream translate-vs-transliterate decisions.
 - Eliminated manual annotation by distilling labels from the 8B model; validated and stratified **~20K images** into an 80/10/10 split.
 - Implemented the text localization and preprocessing stack in **OpenCV**.
 
