@@ -118,7 +118,7 @@ Demoed the system at **Tech Glanz**, Samsung's internal tech summit.
 ---
 <div align="center">
 
-[![Resume](https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=readme&logoColor=white)](https://github.com/shreyashgaurav/shreyashgaurav/raw/main/Shreyash_Gaurav_Resume.pdf)
+[![Resume](https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=readme&logoColor=white)](https://github.com/shreyashgaurav/shreyashgaurav/blob/main/Shreyash_Gaurav_Resume.pdf)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=rAtB6ZYAAAAJ&hl=en)
 
 Always open to collaborating on **AI/ML research**, **low-latency systems**, and **open-source projects** — or discussing ideas in graph neural networks and machine learning.
