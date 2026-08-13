@@ -4,20 +4,19 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Researcher+%7C+Deep+Learning+%26+GNNs;Graph+Clustering+%7C+VLMs+%2F+LLMs;Published+%40+ACM+SAC+%7C+IEEE+%7C+CODS;Ex-Intern+%40+Samsung+Research;M.Tech+in+CS+%40+NIT+Rourkela;C%2B%2B+%7C+Python+%7C+Full-Stack)](https://git.io/typing-svg)
 
-
-
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shreyashgaurav/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shreyash2856@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/shreyash_gaurav/)
-
 </div>
+
 
 <div align="center">
 
-**🔍 Open to SDE roles - India or Remote**<br>
-C++ · Systems · Applied ML · Full-Stack<br>
-[📄 Resume](https://github.com/shreyashgaurav/shreyashgaurav/blob/main/Shreyash_Gaurav_Resume.pdf) · [📧 shreyash2856@gmail.com](mailto:shreyash2856@gmail.com)
+**🔍 Open to SDE roles — India or Remote**<br>
+C++ · Systems · Applied ML · Full-Stack
+
+[![Resume](https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=readme&logoColor=white)](https://github.com/shreyashgaurav/shreyashgaurav/raw/main/Shreyash_Gaurav_Resume.pdf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shreyashgaurav/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shreyash2856@gmail.com)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=rAtB6ZYAAAAJ&hl=en)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/shreyash_gaurav/)
 
 </div>
 
