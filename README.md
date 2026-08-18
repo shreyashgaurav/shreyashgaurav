@@ -9,7 +9,7 @@
 
 <div align="center">
 
-**🔍 Open to SDE roles — India or Remote**<br>
+**🔍 Open to SDE/ML roles — India or Remote**<br>
 C++ · Systems · Applied ML · Full-Stack
 
 [![Resume](https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=readme&logoColor=white)](https://github.com/shreyashgaurav/shreyashgaurav/blob/main/Shreyash_Gaurav_Resume.pdf)
