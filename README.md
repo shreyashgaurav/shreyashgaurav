@@ -43,6 +43,7 @@ Built agentic AI and deep-learning pipelines for Scene Text Recognition on real-
 
 Demoed the system at **Tech Glanz**, Samsung's internal tech summit.
 
+## Skills
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
