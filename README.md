@@ -2,7 +2,7 @@
 
 # Hi there, I'm Shreyash 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Researcher+%7C+Deep+Learning+%26+GNNs;Graph+Clustering+%7C+VLMs+%2F+LLMs;Published+%40+ACM+SAC+%7C+IEEE+%7C+CODS;Ex-Intern+%40+Samsung+Research;M.Tech+in+CS+%40+NIT+Rourkela;C%2B%2B+%7C+Python+%7C+Full-Stack)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Ex-Intern+%40+Samsung+Research;M.Tech+in+CS+%40+NIT+Rourkela;Researcher+%7C+Deep+Learning+%26+GNNs;Graph+Clustering+%7C+VLMs+%2F+LLMs;Published+%40+ACM+SAC+%7C+IEEE+%7C+CODS;C%2B%2B+%7C+Python+%7C+Full-Stack)](https://git.io/typing-svg)
 
 </div>
 
