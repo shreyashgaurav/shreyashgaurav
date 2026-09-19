@@ -32,7 +32,7 @@ Computer Science graduate from **NIT Rourkela**, passionate about Graph Neural N
 
 ## Experience
 
-**Research Intern** -- [Samsung Research Institute, Bangalore](https://research.samsung.com/sri-b) · Jan - Jul 2026
+**Developer Intern** -- [Samsung Research Institute, Bangalore](https://research.samsung.com/sri-b) · Jan - Jul 2026
 
 Built agentic AI and deep-learning pipelines for Scene Text Recognition on real-world images.
 
